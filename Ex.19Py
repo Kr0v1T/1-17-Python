@@ -1,0 +1,7 @@
+X = int(input("Inserir valor de X: "))
+Y = int(input("Inserir valor de Y: "))
+
+if X > Y:
+    print("X é maior que Y")
+elif Y > X:
+    print("Y é maior que X")
